@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="CnUjonwvj1Fddb1JqmKu">
+    <mxGraphModel dx="1000" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;1. Критерии приемки&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-2" value="&lt;b&gt;Кейс 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Поиск:&lt;br&gt;Ул. абвгд д.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-13" value="Функциональность: Проверка количества доступных пауэрбанков в постамате.&amp;nbsp;&lt;br&gt;Дано: Клиент выполняет поиск постамата по адресу. &lt;br&gt;Когда: Клиент вводит несуществующий адрес.&lt;br&gt;Тогда: Система выводит сообщение об ошибке “Адрес не существует”." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-15" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Кейс 2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-16" value="ул. Красная 10" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-17" value="ул. Красная 12" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-18" value="ул. Красная 20" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#f50505;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-19" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Список постаматов&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-20" value="Функциональность: Проверка количества доступных пауэрбанков в постамате.&amp;nbsp;&lt;br&gt;Дано: Клиент выбирает адрес постамата.&lt;br&gt;Когда: Клиент выбирает постамат в котором закончились пауэрбанк.&lt;br&gt;Тогда: Система выводит сообщение “Пауэрбанки отсутсвуют”." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2. Нефункциональные требования &lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;НФТ относятся к атрибутам качества системы, которые определяют, как она работает, а не что она делает. &lt;br&gt;&lt;br&gt;Требования надежности: &lt;br&gt;1. Система должна быть доступна 99% времени. &lt;br&gt;Требования производительности: &lt;br&gt;1. Страница отображения количества повербанков в постамате должна открываться не более 2 секунд. &lt;br&gt;2. Запрос на отображение количества повербанков в данном постамате GET berizaryad.ru/postamats/{postamat_id} должен выдерживать нагрузку 1 rps&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="760" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7xu6sBb8FCcr7IUXMrXs-22" value="Критерии приемки — это формализованные требования, которые описывают, каким образом система должна работать, чтобы пользователь или заказчик признали функциональность выполненной. Критерии приемки состоят из кейсов &quot;Дано - Когда – Тогда&quot;." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="760" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
